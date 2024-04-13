@@ -7,7 +7,7 @@
 - Email: 450497667@qq.com
 ## Educational background
 - 2018-2021: Studied at the School of Computer Science, Qinghai Normal University (research direction: Tibetan Intelligent Information Processing)
-- 2022 present: Studied at the School of Computer Science, Qinghai Normal University (research direction: Tibetan information processing)
+- 2022-present: Studing at the School of Computer Science, Qinghai Normal University (research direction: Tibetan information processing)
 ## Research direction
 - Tibetan Natural Language Processing (NLP) and Tibetan Dependency Analysis
 ## Publish papers
